@@ -1,3 +1,6 @@
 This file added on br1, 20161126[08:37:11]
 
 On branch master, I haven't see the modify on br1 now, and I modified this file again. This will cause a conflict.
+Modified on br1, after merged br1 into master(add br1.txt), switch to br1 20161126[09:20:06]
+
+Solve the conflict(when get conflict, use ‘git status’ to see which caused it, and open the file, resolve the conflict manully) 20161126[09:54:08]
