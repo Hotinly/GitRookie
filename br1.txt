@@ -1,1 +1,3 @@
 This file added on br1, 20161126[08:37:11]
+
+Modified on br1, after merged br1 into master(add br1.txt), switch to br1 20161126[09:20:06]
