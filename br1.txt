@@ -1,1 +1,3 @@
 This file added on br1, 20161126[08:37:11]
+
+On branch master, I haven't see the modify on br1 now, and I modified this file again. This will cause a conflict.
