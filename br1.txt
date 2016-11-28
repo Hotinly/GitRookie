@@ -4,3 +4,5 @@ On branch master, I haven't see the modify on br1 now, and I modified this file 
 Modified on br1, after merged br1 into master(add br1.txt), switch to br1 20161126[09:20:06]
 
 Solve the conflict(when get conflict, use ‘git status’ to see which caused it, and open the file, resolve the conflict manully) 20161126[09:54:08]
+ 
+Br1 has been merged into master, by fast forward, this bransh can be deleted 20161128[08:06:13]
