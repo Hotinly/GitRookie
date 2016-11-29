@@ -1,3 +1,5 @@
 This a new dev branch, I will test 'git stash'
 Scenario: I make a new file 'dev.txt', but now, I will fix a bug on master, bacause there had changed and not commited on dev, so, I use 'git stash' to temporary storage the modification. Maybe:20161128[08:21:00]
 After fixed issues on master by merged new branch issue-001, do 'git stash pop' to take out and delete the stash. 20161128[08:29:30]
+
+I made a branch dev at home-20161128, (Morning I modified and committed the ReadMe on master and merged to dev and pushed dev to github). Now at office, I fetch and checkout the remote 'dev' and do this record.
