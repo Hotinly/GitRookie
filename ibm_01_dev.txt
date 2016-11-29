@@ -5,3 +5,6 @@ Scenario:
   3. User2 IBM_WIN7 <hclhubj@cn.ibm.com>
   4. Use git clone to get the remote master branch.(dev has not been submitted on X1C)
   20161128[01:17:42]
+
+In that there has no dev branch before and I added that now, 
+to ensure that the 'dev' is the latest and collective, I made this modification.20161129[11:47:45]
