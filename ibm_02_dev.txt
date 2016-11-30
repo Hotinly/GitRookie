@@ -1,2 +1,9 @@
 OFC: At present, I am create a new brunch 'ibm_02_dev' base the on up-to-date branch 'dev'.
 I will fetch this commit at HM.
+
+OFC: 'x1c_01_dev' was committed last night at HM, I have fetched them. 20161130[10:16:42]
+Steps：
+    1. git checkout dev
+    2. git fetch origin (dev)
+    3. git merge origin/dev     (so far, there is no conflict)
+    4. git push origin dev
